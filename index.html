@@ -1112,11 +1112,11 @@
         </p>
       </div>
       <div class="contact-links reveal">
-        <a href="/cdn-cgi/l/email-protection#cfa5a2baaca6a98fa8a2aea6a3e1aca0a2" class="contact-link">
+        <a href="#" id="email-link" class="contact-link" onclick="revealEmail(event)">
           <span class="contact-link-icon">✉️</span>
           <div>
             <p class="contact-link-label">Email</p>
-            <p class="contact-link-val"><span class="__cf_email__" data-cfemail="f19b9c84929897b1969c90989ddf929e9c">[email&#160;protected]</span></p>
+            <p class="contact-link-val" id="email-display">click to reveal</p>
           </div>
         </a>
         <a href="https://linkedin.com/in/jmucientes" target="_blank" class="contact-link">
@@ -1144,7 +1144,7 @@
   <p class="footer-loc">📍 Colorado, USA</p>
 </footer>
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+<script>
   // Scroll reveal
   const revealEls = document.querySelectorAll('.reveal');
   const observer = new IntersectionObserver((entries) => {
