@@ -1,6 +1,7 @@
 # José M. Mucientes Fayos
 
 Senior / Staff-level **Android + Backend Product Engineer**  | **13+ years of experience** | **Colorado, USA**
+
 Kotlin everywhere. Systems thinker. Zero-to-one builder.
 
 > I build products end-to-end — from Android UI to backend services — with a strong bias toward experimentation, iteration, and measurable impact.
