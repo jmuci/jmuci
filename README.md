@@ -21,7 +21,15 @@ Kotlin everywhere. Systems thinker. Zero-to-one builder.
 - 🧠 Systems thinking with a product-first mindset
     
 
-I’ve spent over a decade building high-scale consumer and creator tools, most recently working across Android and backend systems to ship features that moved engagement, retention, and revenue.
+I’ve spent over a decade building high-scale consumer ([Spotify Android Music App](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US)) and creator tools ([Spotify for Artists Android App](https://play.google.com/store/search?q=artists+spotify&c=apps&hl=en_US)), most recently working across Android and backend systems to ship features that moved engagement, retention, and revenue.
+
+--- 
+## Get my Resume! 
+
+Want to hire me? Shot me an email and tell me about the world class challenge you are solving! 
+
+* Looking for a Senior / Staff purely Android Engineer &rarr; 📄[Senior / Staff Android Engineer](resume/jmucientes - Resume - Sr Android.pdf)
+* Looking for an engineer capable of working on end-to-end from client code to backend? Looking for an engineer to lead and execute projects end-to-end? &rarr; 📄 [Senior / Product Engineer](resume/jmucientes - Resume - Senior Product Eng.pdf)
 
 ## Github Activity
 
@@ -83,4 +91,6 @@ Experimentation frameworks • A/B testing • Feature flags • CI/CD
 ---
 
 If you want to build something ambitious, pragmatic, and user-centered — let’s talk.
+
+![Me](img/me_banner.png)
 
