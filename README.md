@@ -28,8 +28,8 @@ I’ve spent over a decade building high-scale consumer ([Spotify Android Music 
 
 Want to hire me? Shot me an email and tell me about the world class challenge you are solving! 
 
-* Looking for a Senior / Staff purely Android Engineer &rarr; 📄[Senior / Staff Android Engineer](resume/jmucientes - Resume - Sr Android.pdf)
-* Looking for an engineer capable of working on end-to-end from client code to backend? Looking for an engineer to lead and execute projects end-to-end? &rarr; 📄 [Senior / Product Engineer](resume/jmucientes - Resume - Senior Product Eng.pdf)
+* Looking for a Senior / Staff purely Android Engineer &rarr; 📄[Senior / Staff Android Engineer](resume/jmucientes%20-%20Resume%20-%20Sr%20Android.pdf)
+* Looking for an engineer capable of working on end-to-end from client code to backend? Looking for an engineer to lead and execute projects end-to-end? &rarr; 📄 [Senior / Product Engineer](resume/jmucientes%20-%20Resume%20-%20Senior%20Product%20Eng.pdf)
 
 ## Github Activity
 
