@@ -1,6 +1,6 @@
 # José M. Mucientes Fayos
 
-Senior / Staff-level **Android + Backend Product Engineer**  | **13+ years of experience** | **Colorado, USA**
+Senior / Staff-level **Android + Backend Product Engineer**  | **14+ years of experience** | **Colorado, USA**
 
 Kotlin everywhere. Systems thinker. Zero-to-one builder.
 
@@ -22,6 +22,8 @@ Kotlin everywhere. Systems thinker. Zero-to-one builder.
     
 
 I’ve spent over a decade building high-scale consumer ([Spotify Android Music App](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US)) and creator tools ([Spotify for Artists Android App](https://play.google.com/store/search?q=artists+spotify&c=apps&hl=en_US)), most recently working across Android and backend systems to ship features that moved engagement, retention, and revenue.
+
+Today, I’m a **Staff Software Engineer at Gusto**, building the company’s native retirement (401(k)) experience from scratch — the functionality previously offered by Guideline before its 2025 acquisition by Gusto. I own planning, execution, rollout, and maintenance of the feature, leading a small team of Android engineers.
 
 --- 
 ## Get my Resume! 
@@ -68,11 +70,13 @@ I’m especially interested in:
 
 ## Currently
 
-- Building side projects with Kotlin + AI-assisted workflows
+- 🏦 **Staff Software Engineer @ Gusto** (since April 2026)
     
-- Exploring agentic systems and commerce automation
+- Building Gusto’s native retirement (401(k)) feature from the ground up — the experience formerly offered by Guideline, acquired by Gusto in 2025
     
-- Open to interesting zero-to-one product challenges
+- Own planning, execution, rollout, and maintenance, leading a small team of Android engineers
+    
+- Still tinkering with side projects (Pocket-Chef) and AI-assisted workflows in my spare time
     
 
 ---
