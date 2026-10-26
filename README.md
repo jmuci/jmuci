@@ -26,13 +26,14 @@ I’ve spent over a decade building high-scale consumer ([Spotify Android Music 
 Today, I’m a **Staff Software Engineer at Gusto**, building the company’s native retirement (401(k)) experience from scratch — the functionality previously offered by Guideline before its 2025 acquisition by Gusto. I own planning, execution, rollout, and maintenance of the feature, leading a small team of Android engineers.
 
 --- 
+<!--
 ## Get my Resume! 
 
 Want to hire me? Shot me an email and tell me about the world class challenge you are solving! 
 
 * Looking for a Senior / Staff purely Android Engineer &rarr; 📄[Senior / Staff Android Engineer](resume/jmucientes%20-%20Resume%20-%20Sr%20Android.pdf)
 * Looking for an engineer capable of working on end-to-end from client code to backend? Looking for an engineer to lead and execute projects end-to-end? &rarr; 📄 [Senior / Product Engineer](resume/jmucientes%20-%20Resume%20-%20Senior%20Product%20Eng.pdf)
-
+-->
 ## Github Activity
 
 <picture>
